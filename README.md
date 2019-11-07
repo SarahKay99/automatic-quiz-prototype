@@ -35,15 +35,19 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
   Quicker than writing flash-cards, eh?
 
 # ---USING AUTOQUIZ: WINDOWS---
-2) Open command prompt.
+2) Ensure you have installed Python 3.
 
-3) WRITE THE FOLLOWING COMMANDS:
+3) Click "clone or download". Unzip the file.
 
-cd **automatic-quiz-prototype address**
+4) Open the unzipped folder in your file explorer. **Copy** its file address.
 
-python run quiz.py
+5) Open command prompt. WRITE THE FOLLOWING COMMANDS:
 
-4) Copy the address of your .txt file.
+cd **//Paste file address with ctrl+V//** **//Press Enter//**
+
+python run quiz.py **//Press Enter//**
+
+6) Copy the address of your .txt file.
 
 Get ready to paste it when prompted. 
 
