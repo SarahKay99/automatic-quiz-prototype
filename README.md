@@ -39,7 +39,7 @@ Write your notes in a .txt file, using the following markup:
 # WINDOWS
 2) Ensure you have installed Python 3.
 
-3) Download and unzip the project.
+3) Click "Download ZIP" on Github, then unzip the project.
 
 4) Open the unzipped folder in your file explorer. **Copy** its file address.
 
