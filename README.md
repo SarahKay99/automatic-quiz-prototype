@@ -47,7 +47,7 @@ Write your notes in a .txt file, using the following markup:
 
 cd **-ctrl+V-** **-Enter-**
 
-python run quiz.py **-Enter-**
+python quiz.py **-Enter-**
 
 6) Open your file explorer. Find the folder which contains your .txt file and **Copy** its address. 
 
