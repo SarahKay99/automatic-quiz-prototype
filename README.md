@@ -34,7 +34,7 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
   
   Quicker than writing flash-cards, eh?
 
-# ---USING AUTOQUIZ: WINDOWS---
+# ---WINDOWS---
 2) Ensure you have installed Python 3.
 
 3) Click "clone or download". Unzip the file.
