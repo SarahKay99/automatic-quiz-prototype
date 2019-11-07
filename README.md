@@ -6,7 +6,9 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
 1) Write your notes in a .txt file, using the following markup: 
   
   %Word: *its definition*%
+  
   .) Begin AND end the line with %.
+  
   .) Seperate the word and its definition with :
   
   ================================================
@@ -14,13 +16,16 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
   EXAMPLE: basicbiology.txt
   
   %Mitochondria: The powerhouse of the cell.%
+  
   %Organism: A cluster of funtioning cells.%
   
   Mitochondria produce ATP and provide energy to the cell.
+  
   All organisms have mitochondria in their cells.
   
   ================================================
   Now you'll be tested on the definitions of "mitochondria" and "organism"!
+  
   Better than writing flash-cards, eh?
 
 # ---WINDOWS---
