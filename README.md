@@ -36,7 +36,7 @@ Write your notes in a .txt file, using the following markup:
   
   Quicker than writing flash-cards, eh?
 
-# ---WINDOWS---
+# WINDOWS
 2) Ensure you have installed Python 3.
 
 3) Download and unzip the project.
