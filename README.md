@@ -22,13 +22,17 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
   
   %Golgi Bodies: An organelle which stores and distributes molecules in the cell.%
   
+  %Endoplasmic Reticulum: An organelle which synthesizes molecules for the cell to use.%
+  
+  %Nucleus: An organelle which produces DNA and stores it.%
+  
   Mitochondria produce ATP and provide energy to the cell.
   
   All organisms have mitochondria in their cells.
   
   ================================================
   
-  Now you'll be tested on the definitions of "mitochondria", "organism" and "Golgi Bodies"!
+  Now you'll be tested on the self-given definitions of "mitochondria", "organism", "Golgi Bodies", "Nucleus" and "Endoplasmic Reticulum!"! **You need at least 5 definitions for the program to work.**
   
   However, you won't be tested on the last two lines: they are just notes you took.
   
