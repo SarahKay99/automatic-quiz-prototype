@@ -41,18 +41,22 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
 # ---WINDOWS---
 2) Ensure you have installed Python 3.
 
-3) Click "clone or download". Unzip the file.
+3) Download and unzip the project.
 
 4) Open the unzipped folder in your file explorer. **Copy** its file address.
 
 5) Open command prompt. WRITE THE FOLLOWING COMMANDS:
 
-cd **//Paste file address with ctrl+V//** **//Press Enter//**
+cd **-ctrl+V-** **-Enter-**
 
-python run quiz.py **//Press Enter//**
+python run quiz.py **-Enter-**
 
-6) Copy the address of your .txt file.
+6) Open your file explorer. Find the folder which contains your .txt file and **Copy** its address. 
 
-Get ready to paste it when prompted. 
+OR: 
+
+Open your file explorer. Navigate to Sample Notes and **Copy** that address.
+
+7) Press **-Ctrl+V-** when you see: "Enter the directory of your notes: "
 
 You're good to go!
