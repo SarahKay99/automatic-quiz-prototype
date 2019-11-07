@@ -4,8 +4,9 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
 *only compatible with Windows for now.
 
 # HOW TO USE:
-1) Write your notes in a .txt file, using the following markup: 
-**OR, IF YOU JUST WANT TO TRIAL THE SOFTWARE, USE SAMPLE NOTES AND SKIP THIS STEP**
+1) **IF YOU JUST WANT TO TRIAL THE SOFTWARE, USE SAMPLE-NOTES AND SKIP STEP 1**
+
+Write your notes in a .txt file, using the following markup: 
   
   %Word: *its definition*%
   
