@@ -32,7 +32,7 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
   
   However, you won't be tested on the last two lines: they are just notes you took.
   
-  Better than writing flash-cards, eh?
+  Quicker than writing flash-cards, eh?
 
 # ---USING AUTOQUIZ: WINDOWS---
 2) Open command prompt.
