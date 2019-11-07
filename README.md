@@ -32,7 +32,7 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
   
   ================================================
   
-  Now you'll be tested on the self-given definitions of "mitochondria", "organism", "Golgi Bodies", "Nucleus" and "Endoplasmic Reticulum!"! **You need at least 5 definitions for the program to work.**
+  Now you'll be tested on the definitions of "mitochondria", "organism", "Golgi Bodies", "Nucleus" and "Endoplasmic Reticulum"! **You need at least 5 definitions for the program to work.**
   
   However, you won't be tested on the last two lines: they are just notes you took.
   
