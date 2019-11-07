@@ -435,6 +435,8 @@ def runMenu(mode = "", askForMode = True):
 
     # initializing
     set_list = os.listdir(setsDir)
+    if set_list[0] == "init.txt":
+        set_list = set_list.pop(0)
 
     if len(set_list) == 0:
         mode = "B"
