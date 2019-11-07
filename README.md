@@ -39,7 +39,7 @@ Just started a content-heavy unit? Studying for exams? Write your notes in a sim
 
 3) WRITE THE FOLLOWING COMMANDS:
 
-cd *the directory where automatic-quiz-prototype is saved*
+cd **automatic-quiz-prototype address**
 
 python run quiz.py
 
