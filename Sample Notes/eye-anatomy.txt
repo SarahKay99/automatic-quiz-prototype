@@ -1,0 +1,152 @@
+---EYE ANATOMY---
+---BMS1052 NOTES---
+---By Sarah Kay---
+
+Light rays from distant objects are parallel.
+When light rays are refracted at the cornea, they converge to a point in the retina where they're picked up as an image.
+
+Near sight requires stronger lens of the cornea and weaker ciliary muscles -> Ciliary muscles relax.
+Far sight requires weaker lens of the cornea and stronger ciliary muscles -> Ciliary muscles tense.
+
+An image is created where light rays converge after refraction.
+
+---ANATOMY OF THE EYE---
+
+%Lens: Transparent, flexible tissue responsible for focusing light images onto the retina.%
+	Located directly behind the iris and the pupil.
+
+%Iris: A thin circular structure in the eye, responsible for dilating and contracting the pupil.%
+	Located directly in front of the lens.
+	Colored based on genetics.
+	Contains the:
+		Dilator pupillae
+		Sphincter pupillae
+
+%Ciliary body: A group of tiny muscles which control the shape of the lens.%
+	Supplied by long posterior ciliary arteries.
+
+%Pupil: Part of the eye where light enters through.%
+	Dilates and contracts based on how much light is in the outside world.
+	Directs light to the retina.
+	Its diameter is controlled by the iris.
+
+%Choroid: The vascular layer of the eye which contains connective tissues.%
+	Located between the retina and the sclera.
+
+%Conjunctiva: A thin transparent layer of tissue that lines the inner surface of the eyelid. Covers the white part of the eye too.%
+	Can become inflamed to cause "conjunctivitis", or "pink eye".
+
+%Fovea: A small pit located in the macula of the retina. Layers of the retina are spread aside in this area, to allow light to come into direct contact with cones.%
+	Contains the most visual receptors.
+	Highest accuity.
+	Highest spatial sensitivity.
+
+%Macula: Located near the centre of the retina of the human eye. Contains the fovea.%
+
+%Cornea: The clear, protective outer layer of the eye, responsible for focusing images onto the retina. In front of the eye only.%
+	An extension of the sclera layer, with some extra protections.
+
+%Sclera: The white of your eye.%
+
+%Refraction: A change in direction of light waves.%
+
+%Diopter: A unit of measurement. The higher its value is, the closer the lens it focuses are.%
+
+%Myopia: The medical name for short-sightedness.%
+	The eyeball is too long.
+	The lens is too strong.
+	Corrected with a concave lens. 	
+	When one suffers from this disorder for too long, the eyeball adapts by getting longer, exacerbating the problem.
+
+%Hyperopia: The medical name for far-sightedness.%
+	Accommodation of the lens can still occur (the lens can still adjust).
+	The eyeball is too short.
+	The lens is too weak. 
+	Corrected with a convex lens. 
+
+%Presbyopia: Far-sightedness caused by loss of elasticity in the lens. Common with aging.%
+	Accomodation of the lens cannot occur.
+
+---DIOPTRES---
+
+Since the cornea and the lens work together to focus images onto the retina, their refraction power in dioptres matters.
+
+Ideally, the cornea is ~42 dioptres.
+The lens is ~20 dioptres.
+
+The lens flattens to process distant light. The ciliary muscles tense to tighten zonule fibres and flatten the lens.
+The lens becomes round to focus near-light. The ciliary muscles relax to loosen zonule fibres and round the lens.
+
+Rounder lens have HIGHER refractive power. 
+Longer, flatter lens have LOWER refractive power.
+
+-----
+
+Steps of vision:
+
+Light entering the eye is refracted to form a focused image at the retina.
+The light touches the fovea, where it comes into contact with rods and cones.
+
+---CELLS OF THE EYE, RODS, CONES---
+
+Layers of the retina: 
+
+%Pigment epithelium: A single layer of highly pigmented cells that support photoreceptor health.%
+%Rods: Receptor cells with high light sensitivity. Active in low light levels.%
+	There is only one type of rod. There is a single range of wavelength sensitivity for rods.	
+	Made of light-absorbing proteins.
+	Contain photoreceptors.
+
+%Cones: Receptor cells with low light sensitivity. Active in high light levels.%
+	There are three different types of cones, with a different range of wavelength sensitivities.
+	Can perceive different colors as a result of perceiving different wavelengths.
+	Made of light-absorbing proteins.
+	Contain photoreceptors.
+
+----- 
+
+Conjunctiva 
+%Muller cells: Glial cells in the retina, which are responsible for homeostatic and metabolic support of retinal neurons.%
+%Horizontal cells: Cells that receive input from multiple photoreceptor cells.%
+%Bipolar cells: Central neurons of the retina, which carry light-elicted signals from photoreceptors and horizontal cells.%
+%Amacrine cells: Inhibitory neurons that project their dendritic arbors onto the inner plexiform layer.%
+%Ganglion cells: Cells that create action potentials with light signals.%
+%Nerve fiber layer: A layer consisting of ganglion cell axons, which proeed towards the optic nerve.%
+%Inner limiting membrane: The basal lamina of the inner retina. Formed by the footplates of Muller cells. The border between the retina and the vitreous humor.%
+
+----- 
+
+%Opsin photopigments: Substances found on rods and cones which absorb light and produce a conformational change.%
+
+Rods: High light sensitivity. Active in low light times, such as at night-time.
+Cones: Less sensitivity to light than rods. Active in well-lit times, such as the day time
+
+Rods are active at night-time when you need to perceive as much light as possible.
+Cones are active in the daytime when there's a lot of light and you don't need to perceive much. 
+
+-----
+
+%Blue cones: Cones that can perceive short (high-frequency) wavelengths.%
+%Green cones: Cones that can perceive medium wavelengths.%
+%Red cones: Cones that can perceive long (low-frequency) wavelengths.%
+
+%Photoreceptors: Neurons that exist on rods and cones, which are made of light-absorbing proteins.%
+
+%Color-blindness: Occurs when a type of cone is missing or malfunctioning.%
+
+%Pupilary light reflex: A clinically significant reflex used to assess cranial nerve and brainstem function. Involves only 4 synapses.%
+
+Photoreceptors --> Bipolar cells --> Ganglion cells
+
+-----
+
+%Phototransduction: The conversion of light into electrical signals.%
+	Occurs when the photoreceptor's membrane potential changes.
+
+%Photoreceptors: Non-spiking neurons responsible for receiving light.% 
+
+In darkness, the membrane potential of a rod is around -30mV.
+
+Relative cone activation accounts for color perception. 
+
+-----

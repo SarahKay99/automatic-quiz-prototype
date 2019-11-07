@@ -1,0 +1,345 @@
+---NEURONS AND GLIA---
+---BMS1052 NOTES---
+---By Sarah Kay---
+
+1. Describe the structure of prototypical neurons.
+2. Describe the function of the axon and dendrites.
+3. Identify ways of characterising and naming neurons.
+4. Identify the 4 different classes of glia cells.
+5. Describe the role and location of:
+	a. Astrocytes
+	b. Mylenating Glia (Oligodenrocytes and Schwann cells)
+	c. Microglia 
+	d. Ependymal cells
+
+-----
+
+CNS stands for Central Nervous System.
+PNS stands for Peripheral Nervous System. 
+
+Main cell classes in the nervous system:
+
+	Neurons
+	Glia
+
+-----
+
+Neurons:
+
+~86 billion cells.
+Contain axons.
+Contain dendrites.
+Responsible for information processing in the NS.
+
+-----
+
+Glia:
+
+~100 billion cells
+Supporting cells in the NS.
+4 main types
+
+-----
+
+There are a lot of ribosomes in neurons.
+
+-----
+
+Important components of neurons:
+
+%Neuronal membrane: Seperates the intra and extracellular spaces of the neuron.%
+%Ribosome: Synthesizes the specialized, membrane-bound proteins of neurons.%
+%Rough Endoplasmic Reticulum: Site of protein synthesis. Attaches ribosomes. Also called Nissl bodies.%
+	%SS Rough Endoplastic Reticulum: Nissl bodies%
+%Mitochondria: Converts ADP to ATP, providing energy for the membrane-bound ion pumps.%
+
+-----
+
+Neurons need a lot of mitochondria because they consume lots of energy in proportion to their size. 
+
+---What makes a neuron special?---
+
+Neural structures:
+
+	%Neural processes: Parts of the neuron which protrude.%
+		The function of these is to receive and transmit information.
+
+	%Dendritic arbor: A tree of the dendritic connections between neurons.%
+		The dendritic arbor of a region corresponds to its function.
+		You can study the dendritic arbor of a region, to explain its function.
+
+-----
+
+Neural processes: 
+
+	%Axons: Protruding neural structures which transmit energy away from the cell.%
+	%Dendrites: Protruding neural structures which transmit energy towards the cell.%
+		Receive input from the axons on other neurons. 
+		Receive input on specialized structures called dendritic spines.
+		Contain MAP2.
+	%Dendritic spines: Small extensions of the neural cell membrane, where the neuron receives input from other neurons.%
+		Sized on the micrometre scale. 
+		Come in various shapes. 
+		Contain actin.
+		Connected to the dendrite.
+
+-----
+
+Neurons can send and receive input from thousands of neurons at a time.
+The density and length of dendritic spines affects one's development.
+Mentally retarded infants have longer dendritic spines, and their dendrites are thinner. 
+Often, mentally disabled people are suffering from their brain's inability to prune unhelpful neural connections. This makes their brains less efficient. 
+
+---WHY DO NEURONS VARY IN STRUCTURE?---
+
+%Neurite: An axon, dendrite or dendritic spine.%
+	Synonyms: Neural processes, Neuronal processes. 
+
+%Soma: The "body" of the neuron; the neuron minus the processes.% 
+
+-----
+
+Neurons vary in:
+
+	Number of neurites
+	Shape
+	Dendrites 
+	Connections
+	Axon length
+	%Neurotransmitters: Specialized chemicals which communicate information to other neurons.%
+
+-----
+
+%Stellate cells: Neurons which collate information locally within a brain region.%
+	Part of a shorter dendritic arbor.
+	Are often, but not always, short cells.
+
+%Pyramidal cells: Neurons which send information to other brain regions.%
+	Part of a longer dendritic arbor.
+	Are often, but not always, long cells.
+
+%Sensory neuron: Receive information from the outside world.%
+	Synonyms: afferent neuron.
+	Found commonly in the peripheral nervous system.
+
+%Interneuron: Transmit information between neurons.%
+	Receive input from some neurons.
+	Distribute output to other neurons.
+	Found commonly in the central nervous system.
+
+%Motor neurons: Transmit information to bodily structures such as glands, muscles, etc.%
+	%S: efferent neuron%
+	Found commonly in the peripheral nervous system.
+
+Neurons vary in structure because different neurons have different functions. 
+Dendritic arbors vary in structure because different regions have different functions.
+
+---NEURONAL SKELETON---
+
+%Cytoskeleton: Forms the shape of the neuron and controls its movement.%
+
+Neuron shape is dynamic. 
+MAPs stands for Microtubule-associated proteins.
+
+%MAPs: Intracellular proteins which regulate the assembly of microfilaments.%
+
+-----
+
+Cytoskeleton elements:
+
+%Microtubles: The widest tubule type of the cytoskeleton, ~20nm wide.%
+	Run longitudinally down neurites.
+	Form "roads" for intracellular transport.
+	MAPs regulate their assembly and function.
+	
+%Neurofilaments: The second-widest tubule type of the cytoskeleton, ~10nm wide.%
+	Provide structural support to the neuron.
+	Regulate the diameter of axons.
+	Regulate the speed of information transmission.
+
+%Microfilaments: The thinnest tubule type of the cytoskeleton, ~5nm wide.%
+	Linked to microtubules and cell membrane.
+	Comprised of actin molecules.
+	Responsible for the movement of axons and dendrites.
+	The movement they provide allows neurons to form connections.
+
+-----
+
+Parts of the axon:
+
+%Axon hillock: Beginning of the axon.%
+%Axon proper: Middle of the axon.%
+%Axon terminal: End of the axon.%
+
+-----
+
+%F The ER does not extend into the axon. F%
+%F Protein synthesis mostly occurs in the cell body. F%
+%F Some protein synthesis occurs in dendritic synapses. F%
+
+%F The membrane of the axon contains specialized proteins. F%
+
+----
+
+The axon membrane: 
+
+Contains ion channels.
+Contains ion pumps.
+Allows for electical communcation.
+
+-----
+
+Axons are about 1 metre long.
+Axons need to extend from the motor cortex of the brain to the bottom of the spinal cord. 
+
+-----
+
+Axon membrane proteins:
+
+Ion channels 
+Ion pumps
+
+-----
+
+Materials transported between neurons:
+
+Proteins
+Neurotransmitters
+Metabolites
+
+-----
+
+Fast axoplasmic transport:
+
+Proteins are synthesized in the soma, then actively transported towards the synapse.
+Metabolic waste products are transported from the synapse to the cell body. 
+Travels 1m/day.
+
+-----
+
+Slow axoplasmic transport:
+
+Mechanisms unclear. 
+Uses active diffusion.
+Travels 0.1-10mm/day
+
+-----
+
+%Anterograde transport: Kinesin-mediated transport of material, towards the synapse.%
+%Retrograde transport: Dynesin-mediated transport of material, away from synapse.%
+%Active diffusion: Diffusion that requires energy.%
+
+Dendrites and dendritic spines use retrograde transport.
+Axons use anterograde transport.
+
+---QUANTIFYING THE RATE OF AXOPLASMIC TRANSPORT---
+
+Finding the rate of anterograde transport:
+
+Neural cell is isolated.
+Injection syringe is placed inside cell body, injecting a radioactive tracer.
+Radioactivity is measured at various points along the axon.
+Radioactivity is graphed against distance.
+
+-----
+
+%Radioactive counts: A measure of radioactive activity, used to track cellular activity.%
+
+-----
+
+Axon terminals:
+
+No microtubules. 
+Lots of internal vesicles containing chemical messengers (neurotransmitters).
+Protein-dense membrane.
+Lots of mitochondria. 
+
+-----
+
+%Synapse: A special connection between two neurons.%
+%Synaptic cleft: A small gap between the membranes of two neurons.%
+%Post-synaptic membrane: A neurotransmitter which binds to specialized proteins and is converted into an electrical signal.% ?
+
+-----
+
+%Myelin: A fatty substance.%
+%Myelin sheath: A fatty sheath that wraps around axons.%
+	Primary function is to speed up electical communication between axons.
+	Produced by myelinating glia: Oligodendrocytes in CNS, Schwann cells in PNS.
+
+%Synapse: The space between the dendrite of one neuron and the axon of another.% 
+	Materials are passed between neurons through synapses. 
+
+%Nodes of Ranvier: Gaps in myelin sheaths, critical for electrical communication between neurons.%
+	Provide a connection between the axon's cytosol and the extracellular fluid.
+	This connection is very important.
+
+-----
+
+Glia: 
+
+%Myelinating glia: Glia cells responsible for producing myelin and wrapping it around axons.%
+	Two categories: Oligodendrocytes and Schwann cells. 
+	Myelinate axons.	
+
+%Astrocytes: Glia cells responsible for supporting synaptic signalling.%
+	Most popular glia in the brain.
+	Located in synapses.	
+	Influence neurite growth.
+	Shaped like stars.
+	Regulate the neurotransmitter in the synapse. 
+	Help maintain the blood-brain barrier. 
+	Involved in neural communication. 
+	Provide metabolic support for neurons. ?
+
+%Microglia: Act as the brain's immune cells. Similar to macrophages but located in the CNS.%
+	10-15% of glia in the nervous system.
+	Precursor: primative yolk-sac. 
+	Remove debris associated with dead cells. 
+	Fight inflammation in the brain.
+	Form a specialized immune system in the brain.
+
+%Ependymal cells: Cells that line the CSF-filled brain ventricles.%
+	Basically the "membrane" or the "border" of the ventricles.
+	Control fluid release between brain tissue and ventricles. 
+
+-----
+
+%Epidural anaesthetics: A medication which enters the ventricles and brain through the ependymal cells.%
+%Epidural space: A space near the spinal cord.%
+
+----=
+
+Astrocytes regulate chemical content of the extracellular space by:
+
+%K+ buffering: Adding potassium to something.%
+
+-----
+
+Neural cell components: 
+
+%Extracellular neural space: High in Na+ and Cl-%
+%Intracellular neural space: High in K+ and very low in Ca2+%
+%Nucleus: The site of all RNA transcription.% 
+%Secretory vessicles: Specialized packages that contain neurotransmitters.%
+
+-----
+
+Myelinating glia:
+
+%Oligodendroglia: Myelinating glia cells found in the CNS.%
+	Synonym: Oligodendrocytes.
+	Derived from CNS.
+
+%Schwann cells: Myelinating glia cells found in the PNS.%
+	Derived from neural crest.
+	Express different proteins to oligodendroglia.
+
+-----
+
+%Prototypical neurons: A neuron that is not myelinated.%
+
+mRNA is transcribed in the nucleus, then it exits to the cytoplasm. Here it is used by ribosomes to synthesize proteins. 
+Membrane-bound neuronal proteins are derived from mRNA, which is derived from DNA in the nucleus. 
+The rough ER does not extend into the axons. 
+Astrocytes are located less than 1 micrometre apart from axons and dendrites. 
