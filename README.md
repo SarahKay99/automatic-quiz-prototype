@@ -2,6 +2,7 @@
 Just started a content-heavy unit? Studying for exams? Write your notes in a simple markup format and automatically be quizzed!
 
 *only compatible with Windows for now.
+*MAC compatibility and GUI in progress
 
 # HOW TO USE:
 1) **IF YOU WANT TO TRIAL THE SOFTWARE ONLY, USE SAMPLE-NOTES AND SKIP STEP 1**
